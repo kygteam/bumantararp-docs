@@ -1,5 +1,3 @@
-# 📜 Peraturan Utama (Main Rules)
-
 Peraturan Utama adalah fondasi dari Bumantara Roleplay. Aturan-aturan ini berlaku untuk semua anggota, baik di dalam game (In-Character) maupun di dalam komunitas (Out-of-Character), untuk memastikan lingkungan yang adil, aman, dan menyenangkan. Pelanggaran terhadap peraturan ini dapat mengakibatkan sanksi tegas.
 
 ---

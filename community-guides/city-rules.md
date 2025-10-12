@@ -1,5 +1,3 @@
-# 📜 Peraturan Kota (City Rules)
-
 Peraturan Kota adalah aturan spesifik yang mengatur interaksi antar pemain di dalam dunia roleplay Bumantara untuk menjaga keseimbangan dan kualitas permainan sehari-hari.
 
 ---

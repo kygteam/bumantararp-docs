@@ -1,5 +1,3 @@
-# 🎥 Official Streamers
-
 Berikut adalah daftar kreator konten resmi yang menjadikan Bumantara Roleplay sebagai rumah mereka. Ikuti petualangan mereka untuk melihat berbagai sudut pandang cerita dari dalam kota kami!
 
 | Streamer | YouTube | TikTok |
