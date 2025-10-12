@@ -1,16 +1,16 @@
-# Bumantara Roleplay
+# Table of contents
 
 ## 🚀 Welcome
 * [🏠 Home](README.md)
 * [ℹ️ About Bumantara](ABOUT-US.md)
 * [🤝 Our Partners](PARTNERS.md)
 
-<!-- ---
+---
 
 ## ✨ Getting Started
 * [Joining the Server](getting-started/joining.md)
 * [Character Creation Guide](getting-started/character-creation.md)
-* [Basic Controls & UI](getting-started/basic-controls.md) -->
+* [Basic Controls & UI](getting-started/basic-controls.md)
 
 ---
 
