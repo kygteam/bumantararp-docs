@@ -1,5 +1,3 @@
-# ⚠️ Ketentuan Donasi – Kendaraan "Only One"
-
 Kendaraan **"Only One"** adalah aset kendaraan kustom eksklusif yang dirancang khusus untuk satu pemilik di kota Bumantara Roleplay. Setiap kendaraan ini wajib mencerminkan identitas unik pemiliknya sekaligus menjaga standar kualitas dan keseimbangan server.
 
 ---
