@@ -31,7 +31,7 @@ Untuk menjaga integritas program dan keamanan komunitas, semua calon anggota diw
 
 #### **Langkah-langkah Verifikasi**
 
-1.  **Isi Formulir:** Pertama, silakan isi data diri Anda di channel formulir `ladies-request` berikut: <#1414149547495657512>
+1.  **Isi Formulir:** Pertama, silakan isi data diri Anda di channel formulir `ladies-request` berikut: [👠・ladies-request](https://discord.com/channels/1413147377501470913/1414149547495657512)
 2.  **Jadwalkan Sesi:** Setelah mengisi formulir, hubungi Admin Ladies untuk menjadwalkan sesi verifikasi *face cam*. Anda bisa langsung menghubungi mereka melalui channel `ladies-chat` di sini: [👠・chit-chat](https://discord.com/channels/1413147377501470913/1427593722828292186)
 
 #### **Persiapan Sesi Verifikasi**
