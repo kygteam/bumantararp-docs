@@ -19,6 +19,7 @@
 ## 📜 Rules & Regulations
 * [Main Rules](community-guides/main-rules.md)
 * [City Rules](community-guides/city-rules.md)
+* [Vehicle Rules](community-guides/vehicle-rules.md)
 * [Robbery Rules](community-guides/robbery-rules.md)
 * [Criminal Activity Rules](community-guides/criminal-rules.md)
 * [Whitelist Job Rules](community-guides/whitelist-rules.md)
