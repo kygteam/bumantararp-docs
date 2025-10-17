@@ -17,7 +17,7 @@ Kendaraan **"Only One"** adalah aset kendaraan kustom eksklusif yang dirancang k
   - Tidak mengandung desain atau *livery* yang berlebihan.
   - Tidak menggunakan efek visual ekstrem (misal: neon berlebihan, partikel).
   - *Handling* harus terasa natural dan wajar.
-  - **Maksimal kecepatan tidak boleh melebihi 260 km/jam (batas atas kelas S+).**
+  - **Maksimal kecepatan sebelum max upgrade tidak boleh melebihi 270 km/jam (batas atas kelas X).**
 - **Evaluasi:** Tim Manajemen berhak penuh untuk menolak atau meminta revisi kendaraan yang tidak memenuhi standar.
 - **Penyesuaian:** Tim hanya bertanggung jawab untuk pengecekan dan penyesuaian *handling* kendaraan agar seimbang.
 
