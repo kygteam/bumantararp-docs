@@ -1,41 +1,34 @@
-Peraturan Utama adalah fondasi dari Bumantara Roleplay. Aturan-aturan ini berlaku untuk semua anggota, baik di dalam game (In-Character) maupun di dalam komunitas (Out-of-Character), untuk memastikan lingkungan yang adil, aman, dan menyenangkan. Pelanggaran terhadap peraturan ini dapat mengakibatkan sanksi tegas.
+Peraturan utama (atau peraturan fundamental) adalah fondasi dari Bumantara Roleplay. Aturan-aturan ini berlaku untuk semua anggota, baik di dalam game (In-Character) maupun di dalam komunitas (Out-of-Character), untuk memastikan lingkungan yang adil, aman, dan menyenangkan. Pelanggaran terhadap peraturan ini dapat mengakibatkan sanksi tegas.
 
 ---
 
-## BAB I: Peraturan Umum Komunitas (Community Rules)
+## Peraturan Umum Komunitas (Community Rules)
 
-Peraturan ini mengatur perilaku semua anggota di seluruh platform komunitas Bumantara Roleplay, termasuk Discord.
+Peraturan ini mengatur perilaku Anda sebagai anggota komunitas di semua platform Bumantara Roleplay.
 
-* **Good Behavior:** Seluruh anggota komunitas Bumantara Roleplay wajib menunjukkan sikap yang baik dan saling menghormati satu sama lain tanpa terkecuali.
-* **Real Money Trading (RMT):** Seluruh anggota komunitas dilarang keras melakukan transaksi apa pun yang menggunakan uang asli di dunia nyata.
-* **Inappropriate Promotion:** Segala bentuk promosi yang tidak berkaitan dengan Bumantara Roleplay dilarang keras dilakukan oleh seluruh anggota.
-* **Inappropriate Share:** Penyebaran konten yang bersifat NSFW (seperti pornografi, kekerasan ekstrim, dan hal tidak pantas lainnya) dilarang keras di dalam komunitas.
-* **Discrimination and Bullying:** Dilarang menyebarkan ujaran kebencian, rasisme, SARA, atau segala bentuk diskriminasi. Perilaku pelecehan atau perundungan juga dilarang keras.
+* **► RESPECT - HARGAI SESAMA:** Pemain wajib menghormati dan bersikap sopan kepada pemain lain, baik In Character maupun Out of Character. Dilarang menghina, mengejek, atau merendahkan pemain lain.
+* **► ATTITUDE - SIKAP:** Jaga perilaku dan kedewasaan, baik di dalam maupun di luar game. Tindakan provokatif atau tidak sopan tidak akan ditoleransi.
+* **► LANGUAGE - BAHASA:** Gunakan bahasa yang sopan dan pantas setiap saat. Dilarang menggunakan kata kasar, menghina, atau ujaran kebencian.
+* **► HARASSMENT - PELECEHAN:** Segala bentuk pelecehan atau pemaksaan tindakan seksual tanpa persetujuan kedua pihak dilarang keras.
+* **► SARA - AGAMA, RAS, ETNIS:** Segala bentuk pelecehan yang berkaitan dengan suku, agama, ras, atau golongan dilarang keras. Penilaian pelanggaran menjadi hak penuh pihak manajemen.
+* **► NEW PLAYERS - WARGA BARU:** Dilarang menghina atau merendahkan warga baru. Hormati dan bantu mereka beradaptasi di kota.
+* **► REAL MONEY TRADING (RMT):** Segala bentuk transaksi menggunakan uang asli untuk item atau kendaraan dalam game dilarang keras.
+* **► CHARACTER LIMIT - BATAS KARAKTER:** Setiap pemain hanya boleh memiliki satu karakter dan satu akun Steam.
+* **► 18+ SCENES - ADEGAN 18+:** Adegan 18+ hanya boleh dilakukan atas kesepakatan kedua pihak dan tidak di tempat umum atau saat live streaming.
+* **► CHEATING - KECURANGAN:** Penggunaan cheat, injector, atau program eksternal akan berakibat ban permanen.
+* **► EXIT DURING RP - KELUAR SAAT RP:** Keluar dari game saat RP berlangsung dilarang. Sanksi minimal: **ban 7 hari.**
 
----
+### Peraturan Fundamental Roleplay (IC)
 
-## BAB II: Peraturan Fundamental Roleplay (Core Roleplay Rules)
+Peraturan ini mengatur perilaku dan mentalitas Anda saat bermain peran di dalam server.
 
-Peraturan ini mengatur mentalitas dan perilaku dasar saat bermain peran di dalam server.
-
-* **Non-Roleplay Behavior:** Setiap pemain wajib bermain peran sesuai dengan karakter yang sedang dijalaninya.
-* **Metagaming:** Pemain dilarang menggunakan informasi dari luar karakter (OOC) untuk keuntungan di dalam karakter (IC). Mencampuradukkan OOC dan IC dalam bentuk apa pun tidak diperbolehkan.
-* **Powergaming:** Pemain harus memerankan karakternya secara realistis, seolah-olah hidup di dunia nyata, dan tidak melakukan tindakan yang tidak mungkin dilakukan oleh manusia biasa.
-* **Force Roleplay:** Pemain dilarang memaksa pemain lain untuk mengikuti alur roleplay yang dibuat demi keuntungan pribadi.
-* **Fail Roleplay:** Pemain dilarang membatalkan roleplay yang sedang berjalan dengan sengaja atau bertindak tidak sesuai dengan perilaku karakter yang wajar.
-* **Refuse Roleplay:** Pemain tidak diperbolehkan menolak skenario roleplay yang diberikan oleh pemain lain karena alasan OOC dan tanpa alasan IC yang masuk akal.
-* **Revenge Killing:** Pemain tidak diperbolehkan melakukan pembalasan dendam secara instan setelah karakter mati (PK) tanpa adanya alur roleplay baru yang jelas.
-* **Happy Trigger:** Pemain dilarang menggunakan senjata secara sembarangan atau tanpa adanya alur roleplay yang jelas dan kuat.
-* **Vehicle Deathmatch (VDM):** Pemain dilarang menyerang, menabrak, atau mencelakai pemain lain menggunakan kendaraan tanpa alasan roleplay yang jelas.
-* **Bug Abuse:** Pemain dilarang memanfaatkan bug, glitch, atau mengeksploitasi fitur game untuk keuntungan pribadi atau kelompok.
-* **Cheating:** Pemain dilarang keras menggunakan program atau aplikasi pihak ketiga yang memberikan keuntungan tidak adil dan merusak permainan.
-* **Extreme Roleplay:** Tidak semua bentuk roleplay dapat dilakukan di dalam server. Untuk skenario yang dianggap ekstrim (misalnya, mutilasi, terorisme, atau roleplay seksual), harus ada persetujuan eksplisit dari semua pihak yang terlibat dan/atau pengawasan dari admin.
-    > **Contoh yang Dilarang Keras Tanpa Persetujuan:** Hal berbau seksual, Mutilasi, Necrofilia, Pedofilia, Terorisme, Paranormal.
-* **Character Kill (CK):** Force CK (memaksa kematian permanen karakter lain) tidak diizinkan tanpa persetujuan kedua belah pihak dan pengajuan kepada admin.
-    > Pengecualian berlaku jika ada perjanjian antar pihak sebelumnya atau ada hukuman mati dari pengadilan yang disetujui oleh admin.
-* **Non-Roleplay Name:** Setiap pemain harus menggunakan nama karakter yang realistis dan masuk akal.
-* **Bad Language Behavior:** Dilarang menggunakan kata-kata kasar yang berlebihan, terutama yang mengandung unsur alat kelamin. Penggunaan kata kasar ringan masih diperbolehkan selama dalam batas wajar dan sesuai konteks roleplay.
-    > Pengecualian berlaku jika semua pihak yang terlibat setuju untuk menggunakannya.
-* **Account Sharing:** Setiap pemain dilarang membagi atau bertukar kepemilikan akun.
-* **Gender Abuse:** Pemain diharuskan menggunakan gender karakter yang sama dengan gender asli mereka di dunia nyata.
-* **Voice Changer:** Pemain dilarang menggunakan aplikasi pihak ketiga untuk mengubah suara asli.
+* **► CHARACTER NAME - NAMA IC:** Nama karakter harus masuk akal dan relevan. Dilarang menggunakan nama yang mengandung unsur SARA, seksual, rasis, atau nama tokoh terkenal.
+* **► NEW LIFE RULE (NLR):** Jika karakter respawn setelah mati atau koma, pemain wajib melupakan kejadian RP sebelumnya selama 30 menit.
+* **► PLAYER KILL (PK):** Kondisi ketika karakter meninggal (koma) akibat RP. Batas maksimal 3 kali PK per minggu, reset setiap Senin pukul 00.00.
+* **► CHARACTER KILL (CK):** Kematian permanen setelah melebihi batas PK atau RP berakhir dengan meninggal dunia.
+* **► FORCE CK:** Dilarang memaksa karakter lain untuk CK tanpa persetujuan bersama.
+* **► BUG ABUSE:** Dilarang menyalahgunakan bug untuk keuntungan pribadi. Laporkan bug kepada admin jika ditemukan.
+* **► CROSSHAIR:** Dilarang menggunakan crosshair tambahan atau reshade zoom di luar fitur game.
+* **► MACRO / THIRD-PARTY SOFTWARE:** Dilarang menggunakan macro atau software pihak ketiga untuk mempermudah pekerjaan atau aksi RP.
+* **► GRAPHIC MODS - MODIFIKASI GRAFIS:** Dilarang menggunakan modifikasi visual seperti NoNight, NoProp, NoBush, NoWater, Reshade Zoom, Thermal Scope, dan sejenisnya.
+* **► LOSING MEMORY - HILANG INGATAN:** Karakter yang koma wajib melupakan kejadian yang membuatnya pingsan atau tertembak.
