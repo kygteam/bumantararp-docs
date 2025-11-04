@@ -19,6 +19,8 @@ Kendaraan **"Only One"** adalah aset kendaraan kustom eksklusif yang dirancang k
   - *Handling* harus terasa natural dan wajar.
   - **Maksimal kecepatan sebelum max upgrade tidak boleh melebihi 270 km/jam (batas atas kelas X).**
 - **Evaluasi:** Tim Manajemen berhak penuh untuk menolak atau meminta revisi kendaraan yang tidak memenuhi standar.
+- **Batas Revisi:** Setiap pengajuan aset kendaraan memiliki batas maksimal **3x (tiga kali) revisi**.
+  - *Biaya tambahan akan dikenakan untuk proses peninjauan ulang jika melebihi batas 3x revisi tersebut.*
 - **Penyesuaian:** Tim hanya bertanggung jawab untuk pengecekan dan penyesuaian *handling* kendaraan agar seimbang.
 
 ---
