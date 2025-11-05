@@ -26,6 +26,11 @@
 
 ---
 
+## 🏙️ Gameplay Guides
+* [Illegal Activities](gameplay-guides/illegal-activities.md)
+
+---
+
 ## ❤️ Support & Donation
 * [Donation Information](donation-support/information.md)
 * [Custom Asset Guidelines](donation-support/custom-asset-guidelines.md)
