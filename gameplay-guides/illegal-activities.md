@@ -54,6 +54,33 @@ Perakitan senjata terbagi menjadi beberapa tingkatan (Tier) yang berlokasi di te
 
 ---
 
+## 💊 Pengolahan Narkoba (Drugs)
+
+Lokasi-lokasi ini sangat tersembunyi dan berbahaya.
+
+### 🔹 Meth Cooking
+<p align="center">
+  <img src="../assets/badclue/meth_crafting.png" width="600" alt="Petunjuk Meth">
+  <br><br>
+  <em>"Berlokasi di jalur yang sering dilewati warga saat hendak berladang atau mencari bahan dasar keju. Di sana terdapat area parkir sunyi di pinggir jalan, tempat di mana kendaraan sering berhenti sejenak tanpa alasan yang jelas."</em>
+</p>
+
+### 🔹 Weed Harvest & Drying
+<p align="center">
+  <img src="../assets/badclue/weed_harvest_drying.png" width="600" alt="Petunjuk Weed">
+  <br><br>
+  <em>"Tersembunyi di dalam sebuah bangunan di jantung area ekspor-impor jalur laut. Dikelilingi oleh tumpukan kontainer besi yang menjulang, tempat di mana barang masuk dan keluar tanpa banyak pertanyaan."</em>
+</p>
+
+### 🔹 Drug Processing (Weed & Meth)
+<p align="center">
+  <img src="../assets/badclue/meth_weed_cocaine_processing.png" width="600" alt="Petunjuk Processing">
+  <br><br>
+  <em>"Sebuah dermaga kecil yang kabarnya masih di bawah pengawasan keluarga Godfather. Lokasinya strategis, tidak jauh dari keriuhan Beach Club dan gerbang utama jalur darat, namun cukup terasing untuk aktivitas rahasia."</em>
+</p>
+
+---
+
 ## 🏪 Pasar Gelap (Blackmarket)
 
 Penjual di pasar gelap adalah sosok yang misterius dan tidak menetap.
